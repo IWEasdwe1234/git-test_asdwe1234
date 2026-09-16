@@ -9,3 +9,9 @@ code .  : 해당 폴더에서 vscode 열기
 # git switch -c sujin
 
 
+<<<<<<< HEAD
+=======
+git add .
+git commit -m "커밋내용"
+git push -u origin sujin
+>>>>>>> fa6af81 (깃허습 협업 실습 중)
