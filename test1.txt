@@ -1,0 +1,11 @@
+git clone 레포지토리주소  : 상대 레포지토리 브랜치로 가져옴
+
+
+code .  : 해당 폴더에서 vscode 열기
+
+
+# 아무것도 없어서 새로 만들어 줘야함
+# git 명령어
+# git switch -c sujin
+
+
